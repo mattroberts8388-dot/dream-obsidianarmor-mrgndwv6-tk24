@@ -1,0 +1,6 @@
+Placeholder note: The armor "worn" texture layers are referenced by the material name "obsidian".
+Vanilla loads these from: assets/minecraft/textures/models/armor/obsidian_layer_1.png and _layer_2.png
+This mod ships item icon textures under assets/obsidianarmor/textures/item/.
+If the worn armor appears untextured, add obsidian_layer_1.png and obsidian_layer_2.png
+under assets/obsidianarmor/textures/models/armor/ (they will still require a resource pack override
+for the vanilla armor layer path in 1.20.1). Item icons are provided and work out of the box.
